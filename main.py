@@ -7,6 +7,8 @@ def translate_text(text):
     session = boto3.Session(region_name='us-east-1')
     bedrock_runtime = session.client('bedrock-runtime')
 
+    print(text)
+
     model_id = 'mistral.mixtral-8x7b-instruct-v0:1'
     body = {
         'prompt':  f'Translate the following Chinese text to English: {text}',
@@ -33,13 +35,19 @@ def translate_text(text):
 
 def read_and_translate(input_file, output_file):
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
-        chunk_size = 1024
-        while True:
-            chunk = infile.read(chunk_size)
-            if not chunk:
-                break
-            print(chunk)
-            translated_chunk = translate_text(chunk)
+        lines = []
+        for line in infile:
+            lines.append(line.strip())
+            if len(lines) == 10:
+                text_to_translate = "\n".join(lines)
+                translated_chunk = translate_text(text_to_translate)
+                outfile.write(translated_chunk + '\n')
+                lines = []
+
+        # Translate any remaining lines
+        if lines:
+            text_to_translate = "\n".join(lines)
+            translated_chunk = translate_text(text_to_translate)
             outfile.write(translated_chunk + '\n')
 
 
