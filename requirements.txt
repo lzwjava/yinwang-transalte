@@ -1,2 +1,6 @@
 boto3
 json
+beautifulsoup4
+requests
+re
+glob
