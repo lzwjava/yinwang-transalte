@@ -9,9 +9,9 @@ def translate_text(text):
 
     print(text)
 
-    model_id = 'mistral.mixtral-8x7b-instruct-v0:1'
+    model_id = 'mistral.mistral-7b-instruct-v0:2'
     body = {
-        'prompt':  f'Translate the following Chinese text to English: {text}',
+        'prompt':  f'<s>[INST]Translate the following Chinese text to English, and provide only the English translation without any Chinese characters or punctuation: {text}[/INST]',
         'max_tokens': 4096,
         'top_k': 50,
         'top_p': 0.7,
