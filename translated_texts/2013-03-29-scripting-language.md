@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is a \"Scripting Language\"?"
+title: "What is a 'Scripting Language'?"
 ---
 
 

@@ -100,6 +100,37 @@ title_mapping = {
     "2013-04-01-hindley-milner.md": "Hindley-Milner"
 }
 
+title_mapping.update({
+    "2016-06-28-yangsheng.md": "Harm of Health Shows",
+    "2013-04-16-yoda-notation.md": "Yoda Notation",
+    "2018-11-23-grammar.md": "Grammar",
+    "2014-02-04-pl-tool.md": "PL Tool",
+    "2015-01-19-tips.md": "Gratuity and Chinese Dignity",
+    "2021-05-10-cs4.md": "CS4",
+    "2012-08-01-interpreter.md": "How to Write an Interpreter",
+    "2013-03-29-scripting-language.md": "What is a 'Scripting Language'?",
+    "2013-04-26-reason-and-proof.md": "Reason and Proof",
+    "2020-02-13-java-type-system.md": "Java Type System",
+    "2015-02-24-human-errors.md": "Alluded to as 'Human Errors'",
+    "2013-04-14-os-design.md": "A New Type of Operating System Design",
+    "2013-03-19-eliminate-problems.md": "Eliminate Problems",
+    "2017-07-06-master-pl.md": "How to Master All Programming Languages",
+    "2021-07-29-super-human-level-vision.md": "Super-Human-Level Vision",
+    "2016-01-10-tesla-autopilot.md": "Tesla Autopilot",
+    "2020-09-24-cs-class2.md": "CS Class 2",
+    "2013-04-12-inspiration.md": "What is Inspiration",
+    "2020-03-26-entry-level-class.md": "Entry-Level Class",
+    "2012-05-18-user-friendliness.md": "What is User-Friendly?",
+    "2017-11-11-genius.md": "Genius",
+    "2020-03-03-cs-course.md": "CS Course",
+    "2016-03-19-self-driving-car-liability.md": "Self-Driving Car Liability",
+    "2013-03-28-chez-scheme.md": "Chez Scheme",
+    "2015-03-03-how-to-respect-a-programmer.md": "How to Respect a Programmer",
+    "2015-07-02-program-correctness.md": "Speaking of a Program's Correctness",
+    "2014-01-28-rubysonar.md": "A Ruby Static Analyzer Named RubySonar",
+    "2016-10-12-compiler-bug.md": "Compiler Bug"
+})
+
 
 def update_file_title(file_path, new_title):
     with open(file_path, 'r', encoding='utf-8') as file:

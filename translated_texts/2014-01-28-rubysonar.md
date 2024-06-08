@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Ruby static analyzer named RubySonar"
+title: "A Ruby Static Analyzer Named RubySonar"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "self-driving-car-liability"
+title: "Self-Driving Car Liability"
 ---
 
 : Why can't autonomous vehicles make mistakes at all?

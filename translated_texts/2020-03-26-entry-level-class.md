@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "entry-level-class"
+title: "Entry-Level Class"
 ---
 
 I'm offering a beginner's computer science class and I need more "newbies" to join. I've received many applications since my last preparation to start the course, but most of them already have some basis, with experienced engineers and team leaders among them. However, I'd like to start with a "zero basis" course first, so those who need more advanced instruction can wait a turn.

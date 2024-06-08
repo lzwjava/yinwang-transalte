@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to write an interpreter"
+title: "How to Write an Interpreter"
 ---
 
 

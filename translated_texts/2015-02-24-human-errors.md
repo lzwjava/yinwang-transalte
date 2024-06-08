@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alluded to as \"human error\""
+title: "Alluded to as 'Human Errors'"
 ---
 
 

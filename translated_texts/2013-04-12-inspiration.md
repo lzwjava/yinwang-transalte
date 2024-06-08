@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "what is inspiration"
+title: "What is Inspiration"
 ---
 
 

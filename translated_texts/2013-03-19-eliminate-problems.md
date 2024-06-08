@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eliminate problems"
+title: "Eliminate Problems"
 ---
 
 1. Why is this problem existent?

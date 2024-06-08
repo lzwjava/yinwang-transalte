@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yoda-notation"
+title: "Yoda Notation"
 ---
 
 In the last blog post, I mentioned Yoda notation.

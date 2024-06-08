@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "speaking of a program's correctness"
+title: "Speaking of a Program's Correctness"
 ---
 
 

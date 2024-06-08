@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "compiler-bug"
+title: "Compiler Bug"
 ---
 
 A friend brought to my attention a bug in the compiler optimization process of GCC with the -O3 option, which caused their product to exhibit strange behavior. This reminded me of a previous encounter I had with a GCC bug. At the time, many compiler experts believed that approach was correct, but I couldn't explain it to them. In essence, this type of optimization relies on exploiting C language's "undefined behavior" (UB) for inference, resulting in strange optimization outcomes.

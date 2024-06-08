@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "super-human-level-vision"
+title: "Super-Human-Level Vision"
 ---
 
 "Super-human level machine vision" does not exist. I want to clarify this once again for the general public regarding the "historical breakthrough" in the field of Artificial Intelligence (AI) called "super-human level machine vision." I explained this in a previous article, but the information may have been buried in a rather lengthy text, leaving many people in the dark. For this crucial issue, simplicity and clarity are essential. So, I decided to clarify it in a very short article.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chez-scheme"
+title: "Chez Scheme"
 ---
 
 I mentioned in the last blog post that there were issues with Lisp compilers. In the early days of Lisp, due to the increased expressiveness of constructs like function as value passing, people didn't know how to implement efficient compilers for it. Many Scheme compilers actually compiled Scheme to C and then used C compilers. GHC, Haskell's compiler, was also like this in the early days. Furthermore, due to the generated assembly code from C compilers not fully meeting Haskell's requirements, GHC contained a Perl script specifically for adjusting the structure of this assembly code, which was called the 'evil mangler'. This has been removed now, but its existence shows that the technology for functional compilers was quite chaotic in the early days.
