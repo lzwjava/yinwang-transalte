@@ -1,3 +1,8 @@
+---
+layout: post
+title: "hindley-milner"
+---
+
 : The fundamental error of Hindley-Milner type systems
 
 In the past, I once presented a slide sequence publicly which was my last talk at Indiana University in October 2012. At that time, I didn't explicitly state the significance of these conclusions. In fact, it revealed a fundamental error in ML and Haskell type systems based on Hindley-Milner.

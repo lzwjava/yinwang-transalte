@@ -1,4 +1,8 @@
- advance and concurrent computing focused workshop
+---
+layout: post
+title: "advance and concurrent computing focused workshop"
+---
+
 
 The advanced workshop's content is quite comprehensive and covers a broad range of topics in a short period. Although each topic is taught in-depth and extensively, the entire course takes about two and a half months to complete, making it challenging to repeat. I am considering dividing the advanced workshop content into smaller modules and conducting focused lectures on each module. This would significantly shorten the process, make scheduling more flexible, and reduce mental strain. Focusing on a specific topic will greatly enhance cognitive effectiveness.
 

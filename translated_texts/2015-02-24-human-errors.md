@@ -1,4 +1,8 @@
- Alluded to as "human error"
+---
+layout: post
+title: "Alluded to as "human error""
+---
+
 
 Yesterday was a sad day. In the 24-hour period, Caltrain, the main commuting transportation tool in the San Francisco Bay Area, had three accidents resulting in three fatalities. One accident occurred in Menlo Park, where a train was stuck on the tracks due to being blocked by the cars in front and behind it, and was eventually hit by an oncoming train. The driver was rescued by the fire department from the wreckage but died in the hospital shortly after. (News video)
 

@@ -1,4 +1,8 @@
- I and the story of authority
+---
+layout: post
+title: "I and the story of authority"
+---
+
 
 Every person doesn't have authority inside them as children, just like every person doesn't believe in advertisements when they're children. But authority is like advertising, it's hidden in your subconscious. You may not believe it after listening once, or twice,...., until you've listened a thousand times, and suddenly it starts to work, and the effect gets stronger.
 

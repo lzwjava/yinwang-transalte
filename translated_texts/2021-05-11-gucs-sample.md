@@ -1,4 +1,8 @@
- Title: Ground-Up Computer Science
+---
+layout: post
+title: "Title: Ground-Up Computer Science"
+---
+
 
 After two months of reading class experiment, I have completed the draft of the first six chapters of my computer science introductory textbook, with the last two chapters still in progress. This book is tentatively named Ground-Up Computer Science, meaning "from the ground up," not requiring any prerequisites.
 

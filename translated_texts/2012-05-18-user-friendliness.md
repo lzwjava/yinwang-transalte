@@ -1,4 +1,8 @@
- What is "user-friendly"?
+---
+layout: post
+title: "What is "user-friendly"?"
+---
+
 
 When I mention a tool being "unfriendly to users," I am often met with disdain. Is this what they call "treating others the way they treat themselves"? I remember when people complained about Linux or TeX being unfriendly back then, and I probably had a similar attitude. Now when I point out TeX's flaws and propose new solutions, I often see an American student roll their eyes and say, "Newbies complain about tools being hard to use because they don't know how. LaTeX is 'wYsiWyg,' so it's not like Word."
 

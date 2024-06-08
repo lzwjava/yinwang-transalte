@@ -1,4 +1,8 @@
- What is a "Scripting Language"?
+---
+layout: post
+title: "What is a "Scripting Language"?"
+---
+
 
 Many people use some "scripting languages" (scripting language), but few really understand what a scripting language is. People use shell to write some "scripts" to complete daily tasks, use Perl or sed to process some text files, and many companies use "scripts" to run their "builds" (called build scripts). So, what is the difference between a "scripting language" and a "non-scripting language"?
 

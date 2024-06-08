@@ -1,4 +1,8 @@
- what is inspiration
+---
+layout: post
+title: "what is inspiration"
+---
+
 
 I like to use the word "inspiration." For instance, I often tell people, "You inspired me." However, sometimes the person I'm speaking to doesn't understand my meaning, thinking they've outsmarted me, and thus displaying an arrogant attitude. In reality, when I use the word "inspiration," it carries a deep meaning. The meaning of "inspiration" does not equate to "I don't know more than you" or "you're smarter than me," but rather it's a vague term.
 

@@ -1,4 +1,8 @@
-: Principle mistakes of DRY
+---
+layout: post
+title: "Principle mistakes of DRY"
+---
+
 
 Many programming people love to advocate various "principles," such as KISS principle, DRY principle.... Some people regard these principles as dogmas or recipes, believing that blindly following these will produce good code. At the same time, they look down on those who do not follow or disregard these principles, labeling them as novices. One of these dogmas is called the "DRY principle" (Don't Repeat Yourself, don't repeat yourself). Blindly believing in the DRY principle has brought about various problems in practical engineering, yet it is often overlooked.
 

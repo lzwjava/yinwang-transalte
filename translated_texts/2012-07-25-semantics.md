@@ -1,4 +1,8 @@
- What is Semantics?
+---
+layout: post
+title: "What is Semantics?"
+---
+
 
 Many people ask me how to enter the study of "semantics" after mastering the basics of programming language skills. I will now briefly explain what "semantics" means, and then recommend a beginner's book. The semantics I refer to here is mainly about programming languages, but the semantics in natural language is essentially the same.
 

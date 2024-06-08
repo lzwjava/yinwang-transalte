@@ -1,4 +1,8 @@
-: Tesla's autopilot caused fatal accident
+---
+layout: post
+title: "Tesla's autopilot caused fatal accident"
+---
+
 
 It's been a while since I last paid attention to Tesla, but today I found out that their autopilot finally caused a fatal accident. This crash involving a Model S colliding with an 18-wheel truck occurred on May 7th, over two months ago. Tesla kept this incident hidden for two months until the US National Highway Traffic Safety Administration (NHTSA) began investigating it, forcing them to come clean. Due to Tesla's failure to promptly report the facts, the government is considering taking legal action against the company.
 

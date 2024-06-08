@@ -1,4 +1,8 @@
- body science
+---
+layout: post
+title: "body science"
+---
+
 
 People who work long hours on computers start to pay attention to their health. Many people experience lower back pain, cervical spondylosis, and tendonitis among other annoying issues. Others, seeing their colleagues and friends contract these ailments, become more cautious. The usual solution for people is to seek help from "body science" (ergonomics). Many companies hire professional ergonomics experts to consult and adjust their employees' seating, posture, and work methods, providing them with various expensive ergonomic products such as ergonomic keyboards, mice, chairs, desks, etc.
 

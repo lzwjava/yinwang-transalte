@@ -1,4 +1,8 @@
-: About Linux, Windows and Mac
+---
+layout: post
+title: "About Linux, Windows and Mac"
+---
+
 
 I have received many messages recently. They found an old article of mine promoting Linux and wanted to know how to "abandon Windows and learn Linux." I don't know where they found such an old article, it's quite a miracle... I feel a responsibility to clear up any misinformation from my old articles about Linux and clean up my reputation as a "Linux fanatic." I have written some clarifying articles before, but still, people keep asking about Linux. Maybe it's due to the "public opinion pressure," I deleted all the articles.
 

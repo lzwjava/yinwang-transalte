@@ -1,4 +1,8 @@
- Lisp is dead, long live Lisp!
+---
+layout: post
+title: "Lisp is dead, long live Lisp!"
+---
+
 
 There is an old saying, called "The king is dead, long live the king!" It means that the old king is already deceased, but his son has taken the throne. The humor lies in the fact that these two "kings" actually refer to different people, and it seems contradictory at first glance. Today, I chose a topic that mimics this saying and called it "Lisp is dead, long live Lisp!" I hope you will understand the meaning by the end.
 

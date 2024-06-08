@@ -1,4 +1,8 @@
-: Test-driven development (TDD)
+---
+layout: post
+title: "Test-driven development (TDD)"
+---
+
 
 Many companies, including Google and my current company Coverity, prefer "test-driven development." The principle is to write automated "unit tests" (unit test) while writing code. After code modification, these tests can be run in batches, preventing unexpected errors.
 

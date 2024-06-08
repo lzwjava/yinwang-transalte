@@ -1,3 +1,8 @@
+---
+layout: post
+title: "church-turing"
+---
+
  Alonzo Church and Alan Turing were two influential figures in computer science, yet they held opposing views and had quite different reputations. Throughout my sixteen-year career in computer science, I always felt my thoughts oscillating between these two "camps." Church represented "logic" and "language," while Turing represented "physics" and "machines." In the first eight years, I knew nothing about Church, while in the second eight years, I seldom heard Turing's name mentioned. Whose views were right and whose were wrong is an unanswerable question. Completely embracing Church or completely embracing Turing seemed like a misguided approach. This is a confusing feeling, a kind of contradiction, but today I will try to summarize my understanding of it.
 
 ### The Quarrel Between Church and Turing

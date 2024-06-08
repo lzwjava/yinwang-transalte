@@ -1,4 +1,8 @@
-: A isn't great, I suppose you mean B then?
+---
+layout: post
+title: "A isn't great, I suppose you mean B then?"
+---
+
 
 (For political enthusiasts, if A is capitalism, B is socialism; if A is America, B is China; for IT personnel, if A is Unix, B is Windows; if A is Vim, B is Emacs; if A is a relational database, B is a NoSQL database, etc.)
 

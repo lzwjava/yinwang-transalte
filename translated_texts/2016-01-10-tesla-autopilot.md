@@ -1,4 +1,8 @@
-: Tesla Autopilot
+---
+layout: post
+title: "Tesla Autopilot"
+---
+
 
 The following content is an additional section in the article "Design Flaws of Tesla Model S." Due to the lapse of time since writing and its timeliness, I am now releasing it separately as a standalone article.
 

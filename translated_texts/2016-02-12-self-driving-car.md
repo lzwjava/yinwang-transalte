@@ -1,3 +1,8 @@
+---
+layout: post
+title: "self-driving-car"
+---
+
  I've been following autonomous driving technology.
 Google's self-driving cars and Tesla's autopilot have been in the news headlines recently. People are passionately discussing autonomous driving technology, filled with wonder, curiosity, and even fear. Google says: "Self-driving cars are very safe. Human beings are terrible drivers." Many people have accepted this viewpoint without hesitation, believing that they will soon be replaced by self-driving cars. So today, I want to share my thoughts on these "self-driving cars."
 

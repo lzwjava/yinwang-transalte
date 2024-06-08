@@ -1,4 +1,8 @@
- GTF - Great Teacher Friedman
+---
+layout: post
+title: "GTF - Great Teacher Friedman"
+---
+
 
 ### The Obstinate Little Boy Who Writes Small Books
 

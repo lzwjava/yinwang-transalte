@@ -1,3 +1,8 @@
+---
+layout: post
+title: "talk-is-not-cheap"
+---
+
  I've noticed that many IT professionals have learned a saying, no matter what opinion you express, they will respond with a teacher-like tone, saying, "Talk is cheap. Show me the code!" or "Show me what you've done!"
 
 This expression holds two possible meanings:

@@ -1,4 +1,8 @@
- about Git's etiquette
+---
+layout: post
+title: "about Git's etiquette"
+---
+
 
 (The following content was originally a section of "How to Respect a Programmer," but due to the disrespectful behavior towards programmers caused by Git's usage, this section is now being presented separately.
 

@@ -1,4 +1,8 @@
- Lazy evaluation
+---
+layout: post
+title: "Lazy evaluation"
+---
+
 
 You may have seen in some of the previous articles that Haskell actually has quite severe problems, but these problems have not received sufficient attention. The problems I see with Haskell are:
 

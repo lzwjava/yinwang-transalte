@@ -1,4 +1,8 @@
- Editor and IDE
+---
+layout: post
+title: "Editor and IDE"
+---
+
 
 ### Unnecessary editor war
 

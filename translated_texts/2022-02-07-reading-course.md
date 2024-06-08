@@ -1,3 +1,8 @@
+---
+layout: post
+title: "reading-course"
+---
+
  I. Computer Science Reading Class Admission Notice
 
 The Computer Science Reading Class is a course designed for beginners, aiming to master the essence of computer science in a short period. It is the result of my 20 years of academic and engineering practice in computer science, combined with two years of social teaching experiment. This course integrates the advantages of major computer introductory teaching methods worldwide, eliminating the obstacles that hinder beginners' understanding, enabling students with no prior knowledge to grasp the essential contents within two months, which are usually learned only during doctoral studies. These contents form a solid foundation, making it easier for them to understand other aspects of computer science.

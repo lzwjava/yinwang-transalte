@@ -1,4 +1,8 @@
- About microkernel dialogue
+---
+layout: post
+title: "About microkernel dialogue"
+---
+
 
 Somehow, the topic of "microkernel vs monolithic kernel" has become popular again. This debate started in 1992....
 

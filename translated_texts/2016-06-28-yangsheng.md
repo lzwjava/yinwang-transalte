@@ -1,4 +1,8 @@
-: Harm of Health Shows
+---
+layout: post
+title: "Harm of Health Shows"
+---
+
 
 Domestically, various types of "health shows" are popular, especially among the elderly. For instance, my parents sometimes send me some health shows, such as 'Dangers of Drinking Cold Water'. This show states that a person had allergic rhinitis, constantly sneezing and sniffling, severely balding, half bald, weak and powerless, and declining sexual performance.... In the end, the expert concluded that it was due to him drinking a cup of cold water every morning!
 

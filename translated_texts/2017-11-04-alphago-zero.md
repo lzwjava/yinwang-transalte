@@ -1,4 +1,8 @@
- Albgo Zero and Strong Artificial Intelligence
+---
+layout: post
+title: "Albgo Zero and Strong Artificial Intelligence"
+---
+
 
 Recently, there has been quite a sensation about AlphaGo (Alphago) Zero. Different from AlphaGo, AlphaGo Zero does not rely on any human go records, but starts from the rules of go and "self-learns," deriving all strategies and winning against AlphaGo in battles. Someone asked me if AlphaGo Zero changed my view on artificial intelligence. My answer is: no.
 

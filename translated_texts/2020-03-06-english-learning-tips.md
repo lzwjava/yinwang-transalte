@@ -1,4 +1,8 @@
- English learning experiences
+---
+layout: post
+title: "English learning experiences"
+---
+
 
 Recently, many people have asked about English learning, so I thought I'd share some of my experiences.
 

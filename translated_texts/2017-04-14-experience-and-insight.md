@@ -1,4 +1,8 @@
- Extensive experience and insight
+---
+layout: post
+title: "Extensive experience and insight"
+---
+
 
 Many people value "experience," such as those who claim to have 30 years of experience in a certain field and use specific techniques. I believe experience is valuable, and I have experience in various fields. However, I don't put experience in a very important position because I possess something that most people lack and overlook: insight.
 

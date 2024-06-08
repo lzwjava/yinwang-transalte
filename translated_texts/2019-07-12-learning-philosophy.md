@@ -1,4 +1,8 @@
- ## Wisdom in Learning
+---
+layout: post
+title: "## Wisdom in Learning"
+---
+
 
 Some people love to learn and read every character of a book from beginning to end. After struggling to finish a book, they don't know what they have learned.
 

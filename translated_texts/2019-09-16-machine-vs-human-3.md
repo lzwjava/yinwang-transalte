@@ -1,3 +1,8 @@
+---
+layout: post
+title: "machine-vs-human-3"
+---
+
  I. Personal Opinion, Unrelated to My Company's Position
 
 Due to the recent slowing down of GitHub server access speed in China, the images in this article may still take a considerable amount of time to load despite significant size compression. This article exposes misconceptions and misrepresentations in the AI field that I encourage everyone to share and its subsequent articles, just remember to mention the author and source.

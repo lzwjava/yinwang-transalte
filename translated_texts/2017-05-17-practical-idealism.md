@@ -1,3 +1,8 @@
+---
+layout: post
+title: "practical-idealism"
+---
+
  I'm not an idealist as some people may think. A person once read my article and assumed I was an "idealist," so they approached me to chat. They said, "You know, I'm just like you, I love simple and elegant code. Last time I worked at a company, I saw their code was a mess, I didn't say anything and just rewrote it, but a few small parts were different from the original, and later the system crashed because of it. The boss told me not to come to work the next day! Do you think I'm a good Samaritan or what?"
 
 Although I sympathized with him losing his job, I don't agree with his method of rewriting others' code without consent. In fact, I once worked with someone who loved to rewrite others' code, and the entire team (including me) almost went crazy because of him. So I told him, "You can't change other people's code like that! If I were your boss, I might not have fired you, but I would have given you a serious warning."

@@ -1,4 +1,8 @@
-misconceptions of positive thinking
+---
+layout: post
+title: "misconceptions of positive thinking"
+---
+
 
 Some people like to advocate for so-called "positive thinking," disregarding the truth. Every time you criticize something, they pull out positive thinking as a magic wand to suppress you, saying, "You're such a negative person. Be positive, focus on the good aspects!"
 

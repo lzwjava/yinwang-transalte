@@ -1,4 +1,8 @@
-: A interview video about Dijkstra
+---
+layout: post
+title: "A interview video about Dijkstra"
+---
+
 
 (You can also visit YouTube or download MPEG1 from the source address, 300M)
 

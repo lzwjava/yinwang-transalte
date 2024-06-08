@@ -1,4 +1,8 @@
- One-on-one teaching plan
+---
+layout: post
+title: "One-on-one teaching plan"
+---
+
 
 (Update: The duration of one-on-one teaching was originally set to be no more than two months. Due to actual circumstances, I have adjusted it to be no more than three months. )
 

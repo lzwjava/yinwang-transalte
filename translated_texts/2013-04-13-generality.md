@@ -1,4 +1,8 @@
- speaking of a program's "generality"
+---
+layout: post
+title: "speaking of a program's "generality""
+---
+
 
 In real software engineering, I often encounter such a phenomenon. A problem that could be solved with simple code is made complicated because the designer excessively focused on "generality," "maintainability," and "scalability."
 

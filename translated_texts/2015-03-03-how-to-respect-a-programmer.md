@@ -1,4 +1,8 @@
-1. How to Respect a Programmer
+---
+layout: post
+title: "1. How to Respect a Programmer"
+---
+
 
 A friend of mine, whom I hadn't seen for a long time, came to the Bay Area of San Francisco. However, when I saw him, he was going through the most painful period of his life. He told me that when he joined the company, they praised his performance during the internship and academic background, saying that he didn't need to interview or graduate with a degree to join the company as a formal employee. But a short year later, this friend felt no respect from the company for his skills. The manager assigned him to do meaningless tasks with no technical substance and criticized him for being too slow. Under the double blows to his self-respect and job security, he often worked overtime on weekends, but still couldn't please the manager.
 

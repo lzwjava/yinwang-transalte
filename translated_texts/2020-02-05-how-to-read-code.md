@@ -1,4 +1,8 @@
- How to read other people's code
+---
+layout: post
+title: "How to read other people's code"
+---
+
 
 Many people have asked me "how to read existing code" with the hope that I have a good method. Some people want to improve their own code quality by reading "excellent projects" like Linux kernel. For this question, I usually don't have a good answer because I rarely improve myself by reading other people's code. I have high standards for the code I read, as there are too many poorly written codes in the world, reading them will harm my thinking. The same logic applies to articles.
 

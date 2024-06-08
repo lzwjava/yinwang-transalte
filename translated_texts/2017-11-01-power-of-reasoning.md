@@ -1,4 +1,8 @@
-: Rational power
+---
+layout: post
+title: "Rational power"
+---
+
 
 A person who seemed to have a high status once wrote me a letter to discuss my blog and some of his views on engineering. I recalled some past experiences these past few days and wanted to share this story. I won't mention who this person is, he's just one of many with similar thoughts.
 

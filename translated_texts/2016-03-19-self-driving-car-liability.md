@@ -1,3 +1,8 @@
+---
+layout: post
+title: "self-driving-car-liability"
+---
+
 : Why can't autonomous vehicles make mistakes at all?
 
 Someone told me that I have unreasonably high expectations for Google's autonomous vehicles. People are not perfect, so Google's products don't need to be perfect, they just need to be useful. There are so many terrible drivers - drunk drivers, texting while driving, falling asleep at the wheel, making judgement errors... which have caused countless accidents. Autonomous vehicles are far from perfect, but if they can work correctly in 99.9% of situations and significantly reduce accident rates, that's a great benefit for humanity.

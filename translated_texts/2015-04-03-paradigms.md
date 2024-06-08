@@ -1,4 +1,8 @@
-: Object-Oriented Programming (OOP)
+---
+layout: post
+title: "Object-Oriented Programming (OOP)"
+---
+
 
 This is a topic that always sparks debate: is "Functional Programming" (FP) better or is "Object-Oriented Programming" (OOP) better. Since there are two schools of thought, there are those who are passionate about each, criticizing and looking down upon each other. Then there is the "pragmatic grandfather" faction, whose members say that no matter what the paradigm is, a good tool for solving problems is a good tool! Personally, I don't belong to any of these three factions.
 

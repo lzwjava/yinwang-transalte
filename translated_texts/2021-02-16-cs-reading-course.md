@@ -1,4 +1,8 @@
- I. Computer Science Reading Class (Experiment)
+---
+layout: post
+title: "I. Computer Science Reading Class (Experiment)"
+---
+
 
 Yesterday, information about the Computer Science Fundamentals Class (3rd period) was released, and many students have enthusiastically signed up. I ask everyone not to worry too much about applying, I will start reviewing applications after the Spring Festival holiday. Please note that I will not review applications in the order they were received, but rather comprehensively, so please do not feel pressured to apply before the deadline.
 

@@ -1,4 +1,8 @@
-: A Ruby static analyzer named RubySonar
+---
+layout: post
+title: "A Ruby static analyzer named RubySonar"
+---
+
 
 For the past few months, I've spent most of my time working on a Ruby static analyzer called RubySonar. It uses similar technology as PySonar2 but with significant adjustments for Ruby semantics. Now, this analyzer supports Sourcegraph's Ruby code search and browsing, which is a significant improvement over the previous results.
 

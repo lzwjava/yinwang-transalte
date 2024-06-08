@@ -1,4 +1,8 @@
-: Programmer's Psychological Disease
+---
+layout: post
+title: "Programmer's Psychological Disease"
+---
+
 
 Due to the nature of a programmer's work, they have long been subjected to the so-called "hacking" culture, leading to an industry-specific psychological disease. Those afflicted by this condition have caused ongoing harm to newcomers and outsiders. Over time, these unlucky victims have developed a "conditioned response," becoming part of this mental abnormality system, leading more and more people to become "weirdos." This is a frightening thing, so I think it's necessary to raise awareness.
 

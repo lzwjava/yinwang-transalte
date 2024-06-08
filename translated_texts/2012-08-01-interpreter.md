@@ -1,4 +1,8 @@
- How to write an interpreter
+---
+layout: post
+title: "How to write an interpreter"
+---
+
 
 Writing an interpreter is usually the first step in designing and implementing a programming language. An interpreter is a simple yet profound thing, and many people don't know how to write one, so I decided to write an introductory piece on this topic.
 

@@ -1,3 +1,8 @@
+---
+layout: post
+title: "machine-vs-human-2"
+---
+
 2. The Gap Between Machine and Human Visual Ability (2)
 
 This article represents my personal opinion and is not related to my current company's stance. Due to the recent slowdown in access speed to GitHub servers in China, the images in this article may still take a considerable amount of time to load, despite being significantly compressed. This article exposes misconceptions and misleading marketing in the AI field to prevent their spread. I encourage everyone to share this article and its subsequent parts, just remember to mention the author and source.

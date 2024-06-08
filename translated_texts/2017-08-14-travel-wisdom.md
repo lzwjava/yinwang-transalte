@@ -1,4 +1,8 @@
-1. Traveling Wisely
+---
+layout: post
+title: "1. Traveling Wisely"
+---
+
 
 Every travel experience is a journey of self-improvement. Through each travel, I have discovered some ways to simplify life and make it more comfortable. With the help of 'Programming Wisdom' and 'Living Wisdom', I'm now at the airport, observing some travelers' gadgets and methods. Here are some travel tips I'd like to share, which might be helpful to others. Some secret techniques I cannot disclose, but there are still many things to share.
 

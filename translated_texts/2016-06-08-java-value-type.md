@@ -1,4 +1,8 @@
-: Does Java have value types?
+---
+layout: post
+title: "Does Java have value types?"
+---
+
 
 Someone read my previous article 'Design Flaws in Swift Language' and asked me: "You said Java only has reference types (reference type), but according to Java's official documentation, Java also has value types and reference types. For example, int, boolean are value types." Now I will explain this issue.
 

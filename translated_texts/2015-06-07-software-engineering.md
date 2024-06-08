@@ -1,4 +1,8 @@
- Alluded to as software engineering,
+---
+layout: post
+title: "Alluded to as software engineering,"
+---
+
 
 Many programmers among us carry the title of "software engineer," but I don't like this title. I prefer to be called a "programmer" or a "computer scientist." Why is that? This requires discussing the real meaning of "software engineering."
 

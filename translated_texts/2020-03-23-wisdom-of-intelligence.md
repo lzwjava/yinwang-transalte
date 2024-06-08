@@ -1,4 +1,8 @@
-: Doubts about intelligence
+---
+layout: post
+title: "Doubts about intelligence"
+---
+
 
 I have been planning to write a "Newcomer's Guide" for some time now. On one hand, due to the existence of similar questions in consulting work and on Knowledge Star Platform. On the other hand, these questions resonated with me from my experience as a Ph.D. student at Tsinghua. Even at Cornell, these questions still lingered. No one answered these questions, everyone seemed so smart and learned effortlessly... Now that these questions have resurfaced, I realized how many people needed help.
 

@@ -1,3 +1,8 @@
+---
+layout: post
+title: "super-human-level-vision"
+---
+
  "Super-human level machine vision" does not exist. I want to clarify this once again for the general public regarding the "historical breakthrough" in the field of Artificial Intelligence (AI) called "super-human level machine vision." I explained this in a previous article, but the information may have been buried in a rather lengthy text, leaving many people in the dark. For this crucial issue, simplicity and clarity are essential. So, I decided to clarify it in a very short article.
 
 In essence, in the AI field, so-called "machine vision" refers to the ability of a machine to answer the question "What is in the picture?" For instance, if the picture is of a car, saying "car" would be correct. The "Top-5" standard refers to giving five chances to name five things for each picture, and as long as one of them is correct, it is considered correct. For example, if the picture is of a car, saying "cat, guitar, fan, car, orange" would also be considered correct. Have you noticed the problem yet? Let's continue...

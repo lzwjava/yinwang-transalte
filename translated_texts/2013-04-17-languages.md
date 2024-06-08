@@ -1,4 +1,8 @@
- About language pondering
+---
+layout: post
+title: "About language pondering"
+---
+
 
 I have written so much about Haskell's drawbacks but haven't mentioned its advantages. In truth, I must admit that I learned something very important from Haskell, which is the way of thinking about "types". Although Haskell's type system has excessive constraints from a "philosophical" perspective (not a mathematical one), if a programmer has never studied Haskell, then his mind will lack a crucial thing. This thing is hard to learn from other languages besides Haskell, ML, Clean, Coq, and Agda.
 

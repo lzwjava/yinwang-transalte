@@ -1,4 +1,8 @@
- speaking of a program's correctness
+---
+layout: post
+title: "speaking of a program's correctness"
+---
+
 
 In academic circles and in industry, there are many people overly concerned about so-called "program correctness," some even to the point of being overly cautious, sacrificing the essential for the peripheral. Here are some examples:
 

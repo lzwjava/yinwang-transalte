@@ -1,4 +1,8 @@
-: Why is the cello so hard to learn?
+---
+layout: post
+title: "Why is the cello so hard to learn?"
+---
+
 
 A month ago, I decided to start learning the cello, found a teacher and attended several classes, and watched many cello teaching videos on YouTube every day, pondering and practicing. Then I found out that the cello was actually one of the hardest instruments to learn in the world. Not only is the instrument itself difficult, but the teaching methods also pose a problem.
 

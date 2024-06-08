@@ -1,3 +1,8 @@
+---
+layout: post
+title: "interstellar"
+---
+
  I watched Interstellar over the weekend at the invitation of a friend. Given that it was only the second day after its premiere, the crowd was large and the tickets were pricier. Unfortunately, I found myself bored stiff within minutes, barely managing to endure the long three hours, and dozing off towards the end.
 
 To my surprise, people were raving about it, with IMDB ratings reaching 9.0. I was in awe. Just as I was glad my appreciation level hadn't been swayed by Hollywood yet, I heard our department head was planning a team building activity – "eight men collectively watching Interstellar." I couldn't help but laugh and call in sick that day :P

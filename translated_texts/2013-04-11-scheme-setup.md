@@ -1,4 +1,8 @@
- I. Scheme Programming Environment Setup
+---
+layout: post
+title: "I. Scheme Programming Environment Setup"
+---
+
 
 Discussed Scheme for so long but never mentioned how to set up an efficient Scheme programming environment. Some people find it hard to start learning Scheme due to this, so today let's discuss its configuration.
 

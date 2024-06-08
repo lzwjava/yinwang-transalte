@@ -1,4 +1,8 @@
-: Programming Intelligence
+---
+layout: post
+title: "Programming Intelligence"
+---
+
 
 Programming is a creative job, an art. Mastering any art requires a lot of practice and understanding. The "intelligence" mentioned here is not a magic weight loss pill, it cannot replace your own diligence. However, due to the software industry's love for novelty and complexity, I hope these words can guide those who are confused and help them avoid unnecessary detours, achieving a roughly one-to-one ratio of effort and reward.
 

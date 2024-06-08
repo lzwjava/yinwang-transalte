@@ -1,3 +1,8 @@
+---
+layout: post
+title: "compilers"
+---
+
  I am not a compiler expert.
 
 Throughout my career, I have come to realize a phenomenon: people who have done "compiler" work, even if it was just a little, easily develop a superior attitude, leading to various problems when working with others. They often harbor dogmatic and idealistic views, and in the process of worsening interpersonal relationships, they may also design unreasonable software architectures, wasting vast amounts of human and material resources.

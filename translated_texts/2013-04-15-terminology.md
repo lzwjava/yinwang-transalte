@@ -1,4 +1,8 @@
- several cool professional terminologies
+---
+layout: post
+title: "several cool professional terminologies"
+---
+
 
 Learned several cool professional terminologies from a colleague's blog, excited. These words can succinctly summarize several of my blog posts, my article quality is disappointing in comparison. Now let's get acquainted with some truly master-level English terminologies:
 

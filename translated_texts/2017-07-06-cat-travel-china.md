@@ -1,4 +1,8 @@
-: Bringing a Cat Home from Abroad
+---
+layout: post
+title: "Bringing a Cat Home from Abroad"
+---
+
 
 After much effort, my cat and I have successfully arrived at my home in Chengdu. I would like to thank all of my friends for their information and guidance. For the first-time pet owner bringing a pet back to the country, there are many confusions and pressures. I have been planning this for at least two months, and any misstep at any stage could lead to problems. The information online is outdated or too lengthy. As pet owners feel relieved after bringing their pets back home, they are also prone to adding "sentimental nonsense" :) In this article, I will try to avoid unnecessary sentimental nonsense and provide straightforward instructions for those in need.
 

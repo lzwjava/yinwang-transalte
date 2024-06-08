@@ -1,4 +1,8 @@
-: The essence of relational models
+---
+layout: post
+title: "The essence of relational models"
+---
+
 
 When I make fun of relational databases, there's always someone saying that SQL and the design of relational databases have deviated from E.F. Codd's original relational theory. The relational theory and relational model itself are still quite advanced, it's just that it was messed up during implementation.
 

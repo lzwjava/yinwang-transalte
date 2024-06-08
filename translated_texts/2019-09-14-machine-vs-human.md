@@ -1,4 +1,8 @@
- I. Machine and Human Visual Ability Gap (1)
+---
+layout: post
+title: "I. Machine and Human Visual Ability Gap (1)"
+---
+
 
 This article represents my personal opinion and is unrelated to my current company's stance. Due to the recent slowing down of GitHub server access speed in the mainland, the images in this article may still take a considerable amount of time to load, despite being significantly compressed. This article exposes misconceptions and false advertising in the AI field, in order to prevent the spread of ignorance, I encourage everyone to share this article and its subsequent parts, just remember to mention the author and source.
 

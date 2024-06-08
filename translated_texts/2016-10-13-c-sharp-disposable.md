@@ -1,4 +1,8 @@
- IDisposable interface in C#
+---
+layout: post
+title: "IDisposable interface in C#"
+---
+
 
 I've been driven crazy by disposable objects implementing IDisposable interface in Microsoft's C# team....
 

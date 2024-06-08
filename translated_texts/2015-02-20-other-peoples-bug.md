@@ -1,4 +1,8 @@
- other people's bugs
+---
+layout: post
+title: "other people's bugs"
+---
+
 
 In the software industry, it is common to see companies managing one person to fix another person's code bugs. Sometimes a person writes a piece of code and discards it without care, and then the company makes another engineer come to fix it. I want to tell you that this method will fail.
 

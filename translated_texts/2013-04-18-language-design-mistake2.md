@@ -1,3 +1,8 @@
+---
+layout: post
+title: "language-design-mistake2"
+---
+
  I. Programming Language Design Flaws (2) - Trying to Accommodate the World
 
 In a previous article, I discussed a common design flaw in programming languages: the tendency to pursue brevity at the expense of other considerations, which led to a series of historical design errors. Today, I will talk about another design flaw, one that has caused numerous issues and continues to do so.

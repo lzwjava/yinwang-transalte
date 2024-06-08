@@ -1,3 +1,8 @@
+---
+layout: post
+title: "american-english-problems"
+---
+
  I. Some bad habits in American English to be avoided
 
 This article collects some "viruses" of American English that I mentioned recently on Weibo.

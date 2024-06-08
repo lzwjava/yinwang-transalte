@@ -1,4 +1,8 @@
-: The fog in Chengdu
+---
+layout: post
+title: "The fog in Chengdu"
+---
+
 
 Today is New Year's Day, I originally didn't want to write anything. But when I woke up early in the morning, I saw such a sky, the air quality was "heavy pollution" again. New Year's Day didn't even spare me, I couldn't go outside, so I didn't want to live through this year either, decided to write something before I was choked by the smog :).
 

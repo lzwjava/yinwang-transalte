@@ -1,4 +1,8 @@
-1. Why is this problem existent?
+---
+layout: post
+title: "1. Why is this problem existent?"
+---
+
 2. Is this problem necessary?
 3. Can this problem be eliminated or avoided?
 

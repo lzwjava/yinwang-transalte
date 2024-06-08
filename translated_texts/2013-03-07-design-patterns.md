@@ -1,4 +1,8 @@
- Decrypting "Design Patterns"
+---
+layout: post
+title: "Decrypting "Design Patterns""
+---
+
 
 Some people ask me, you say the best way to learn operating systems is to learn programming. So, should we also learn some "design patterns" (design patterns)? This is a question I've had an opinion on for a long time, and one that has been tested in practice. I'd like to summarize my thoughts on this here.
 

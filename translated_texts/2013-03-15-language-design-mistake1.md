@@ -1,3 +1,8 @@
+---
+layout: post
+title: "language-design-mistake1"
+---
+
  I often take pride in writing "very concise" code. Some people are very appreciative of this and then say they also enjoy writing concise code, and then go on to praise the clever design features of C language that allow for very concise code. I then realize that their idea of concise and mine are completely different.
 
 My program's concise is based on semantics being clear and concepts being clear. On this foundation, I strive to eliminate redundant, convoluted, and confusing code, making the program more direct and efficient in expressing my mental "model." This is a form of optimization at the conceptual level, and the program's concise elegance is just one of its "appearances." Just like organizing a tangled mess of wires, it's not a matter of rolling them into a ball and putting them in a box. This approach will only bring more trouble and danger to future work.

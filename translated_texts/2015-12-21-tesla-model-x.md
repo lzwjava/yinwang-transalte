@@ -1,4 +1,8 @@
-: Tesla Model X door design issues
+---
+layout: post
+title: "Tesla Model X door design issues"
+---
+
 
 Tesla's upcoming SUV (Model X) inherits the issues mentioned earlier from the Model S, such as the touchscreen and door handles, and creates new ones. The Model X features an unusual door design, making it look like a bird with spread wings:
 

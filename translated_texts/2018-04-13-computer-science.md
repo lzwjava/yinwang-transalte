@@ -1,4 +1,8 @@
-mystery computer science
+---
+layout: post
+title: "mystery computer science"
+---
+
 
 To master a subject, you cannot start from the details. The capabilities of the human brain are largely limited by beliefs. A person without faith in himself cannot do what he might be capable of. Confidence is important, but it is easily shattered. If one only sees the trees but not the forest, one will lose faith, thinking it will take a monkey's year and a horse's month to master a subject.
 

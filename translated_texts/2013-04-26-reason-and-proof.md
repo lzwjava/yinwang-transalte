@@ -1,4 +1,8 @@
- Reason and Proof
+---
+layout: post
+title: "Reason and Proof"
+---
+
 
 ### Proof
 

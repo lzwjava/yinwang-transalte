@@ -1,3 +1,8 @@
+---
+layout: post
+title: "autopilot-responsibility"
+---
+
 : The responsibility and risk analysis of self-driving cars
 
 When it comes to "self-driving cars," the most familiar name is probably Elon Musk of Tesla. He often exaggerates Tesla's Autopilot capabilities, leading people to misunderstand its abilities. After an accident caused by Autopilot resulted in fatalities, Musk often deflects responsibility online by grabbing at various excuses such as "the driver did not take control in time."
