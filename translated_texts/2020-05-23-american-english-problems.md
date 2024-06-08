@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "american-english-problems"
+title: "American English Problems"
 ---
 
 I. Some bad habits in American English to be avoided

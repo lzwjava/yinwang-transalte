@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The essence of relational models"
+title: "The Essence of Relational Models"
 ---
 
 

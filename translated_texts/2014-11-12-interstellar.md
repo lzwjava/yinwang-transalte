@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "interstellar"
+title: "Interstellar"
 ---
 
 I watched Interstellar over the weekend at the invitation of a friend. Given that it was only the second day after its premiere, the crowd was large and the tickets were pricier. Unfortunately, I found myself bored stiff within minutes, barely managing to endure the long three hours, and dozing off towards the end.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "about Git's etiquette"
+title: "About Git's Etiquette"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hindley-milner"
+title: "Hindley-Milner"
 ---
 
 : The fundamental error of Hindley-Milner type systems

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "autopilot-responsibility"
+title: "Autopilot Responsibility"
 ---
 
 : The responsibility and risk analysis of self-driving cars

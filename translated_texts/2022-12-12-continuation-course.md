@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "advance and concurrent computing focused workshop"
+title: "Advance and Concurrent Computing Focused Workshop"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "machine-vs-human-2"
+title: "Machine vs Human 2"
 ---
 
 2. The Gap Between Machine and Human Visual Ability (2)

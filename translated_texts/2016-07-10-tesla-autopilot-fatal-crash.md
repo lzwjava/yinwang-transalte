@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla's autopilot caused fatal accident"
+title: "Tesla's Autopilot Caused Fatal Accident"
 ---
 
 

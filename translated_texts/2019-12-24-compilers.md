@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "compilers"
+title: "Compilers"
 ---
 
 I am not a compiler expert.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Linux, Windows and Mac"
+title: "About Linux, Windows, and Mac"
 ---
 
 

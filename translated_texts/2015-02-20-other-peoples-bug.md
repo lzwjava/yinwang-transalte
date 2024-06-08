@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "other people's bugs"
+title: "Other People's Bugs"
 ---
 
 

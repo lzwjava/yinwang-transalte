@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One-on-one teaching plan"
+title: "One-on-One Teaching Plan"
 ---
 
 

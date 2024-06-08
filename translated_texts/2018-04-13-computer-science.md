@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mystery computer science"
+title: "Mystery Computer Science"
 ---
 
 

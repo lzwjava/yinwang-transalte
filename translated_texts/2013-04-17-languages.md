@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About language pondering"
+title: "About Language Pondering"
 ---
 
 

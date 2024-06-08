@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "advanced-cs-course"
+title: "Advanced CS Course"
 ---
 
 I've been pleased with the positive feedback received since the establishment of the computer science fundamental class (group class, one-on-one, reading class). I've seen many students with no prior knowledge learn the essential parts of computer science from scratch. This has greatly inspired me. Based on my own exploration and the various social issues I've encountered, I've realized the value and significance of education once again.

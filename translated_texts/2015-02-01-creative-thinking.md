@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A isn't great, I suppose you mean B then?"
+title: "A Isn't Great, I Suppose You Mean B Then?"
 ---
 
 

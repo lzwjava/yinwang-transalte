@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "self-driving-car"
+title: "Self-Driving Car"
 ---
 
 I've been following autonomous driving technology.

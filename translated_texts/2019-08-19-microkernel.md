@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About microkernel dialogue"
+title: "About Microkernel Dialogue"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "misconceptions of positive thinking"
+title: "Misconceptions of Positive Thinking"
 ---
 
 

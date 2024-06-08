@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Principle mistakes of DRY"
+title: "Principle Mistakes of DRY"
 ---
 
 

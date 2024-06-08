@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Doubts about intelligence"
+title: "Doubts About Intelligence"
 ---
 
 

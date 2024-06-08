@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "English learning experiences"
+title: "English Learning Experiences"
 ---
 
 

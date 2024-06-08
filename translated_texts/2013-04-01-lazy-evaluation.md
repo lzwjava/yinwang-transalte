@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lazy evaluation"
+title: "Lazy Evaluation"
 ---
 
 

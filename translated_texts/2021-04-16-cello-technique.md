@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why is the cello so hard to learn?"
+title: "Why is the Cello so Hard to Learn?"
 ---
 
 

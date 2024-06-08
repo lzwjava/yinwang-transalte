@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rational power"
+title: "Rational Power"
 ---
 
 

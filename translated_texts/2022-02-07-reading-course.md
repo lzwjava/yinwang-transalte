@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "reading-course"
+title: "Reading Course"
 ---
 
 I. Computer Science Reading Class Admission Notice

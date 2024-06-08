@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does Java have value types?"
+title: "Does Java Have Value Types?"
 ---
 
 

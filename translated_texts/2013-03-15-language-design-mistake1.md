@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "language-design-mistake1"
+title: "Language Design Mistake 1"
 ---
 
 I often take pride in writing "very concise" code. Some people are very appreciative of this and then say they also enjoy writing concise code, and then go on to praise the clever design features of C language that allow for very concise code. I then realize that their idea of concise and mine are completely different.

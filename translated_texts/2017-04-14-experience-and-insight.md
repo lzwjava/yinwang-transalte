@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Extensive experience and insight"
+title: "Extensive Experience and Insight"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "speaking of a program's \"generality\""
+title: "Speaking of a Program's 'Generality'"
 ---
 
 

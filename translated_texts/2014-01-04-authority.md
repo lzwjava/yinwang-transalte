@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I and the story of authority"
+title: "I and the Story of Authority"
 ---
 
 

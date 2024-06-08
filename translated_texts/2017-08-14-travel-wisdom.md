@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. Traveling Wisely"
+title: "Traveling Wisely"
 ---
 
 

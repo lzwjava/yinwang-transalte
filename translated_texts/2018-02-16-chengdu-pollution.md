@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The fog in Chengdu"
+title: "The Fog in Chengdu"
 ---
 
 

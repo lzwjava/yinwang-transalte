@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla Model X door design issues"
+title: "Tesla Model X Door Design Issues"
 ---
 
 

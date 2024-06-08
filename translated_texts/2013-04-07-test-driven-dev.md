@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test-driven development (TDD)"
+title: "Test-Driven Development (TDD)"
 ---
 
 

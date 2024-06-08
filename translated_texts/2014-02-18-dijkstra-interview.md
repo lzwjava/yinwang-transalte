@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A interview video about Dijkstra"
+title: "An Interview Video About Dijkstra"
 ---
 
 

@@ -1,3 +1,5 @@
+import os
+
 title_mapping = {
     "2017-05-23-kotlin.md": "I. Kotlin and Checked Exceptions",
     "2023-12-23-cs-course-5.md": "CS Course 5",

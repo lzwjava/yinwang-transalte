@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "trap-of-intelligence"
+title: "Trap of Intelligence"
 ---
 
 I bought a Nintendo 3DS game console last time and found the games boring, so I sold both the console and the game to someone else the next day. I started pondering over a question since then - what makes a game enjoyable or unenjoyable for me. I seem to have a peculiar taste for things, many games or movies that others find entertaining or interesting, I find dull or self-harming. Throughout my life, the games I enjoyed the most can be counted on my fingers. They include Braid, Limbo, Klonoa (Wind's Klonoa: Door to Phantomile), Ico, Metal Gear Solid, and so on.

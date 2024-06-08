@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "youth-cs-student"
+title: "Youth CS Student"
 ---
 
 A student from my first "Computer Science Youth Class" (13 years old) has completed all the courses in the Computer Science Basics program and even finished advanced exercises that adult students find challenging. The teaching process was easier than teaching adults, and some courses were finished in half the time, while one was skipped as a practice session. This successful case further confirmed the effectiveness of teaching.

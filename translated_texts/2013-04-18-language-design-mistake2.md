@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "language-design-mistake2"
+title: "Language Design Mistake 2"
 ---
 
 I. Programming Language Design Flaws (2) - Trying to Accommodate the World

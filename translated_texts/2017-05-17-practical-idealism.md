@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "practical-idealism"
+title: "Practical Idealism"
 ---
 
 I'm not an idealist as some people may think. A person once read my article and assumed I was an "idealist," so they approached me to chat. They said, "You know, I'm just like you, I love simple and elegant code. Last time I worked at a company, I saw their code was a mess, I didn't say anything and just rewrote it, but a few small parts were different from the original, and later the system crashed because of it. The boss told me not to come to work the next day! Do you think I'm a good Samaritan or what?"

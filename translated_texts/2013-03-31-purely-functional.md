@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "purely-functional"
+title: "Purely Functional"
 ---
 
 I was initially introduced to "functional programming languages" as Lisp, because in Lisp, functions could be defined at almost any location in a program and passed as values (known as first-class functions). However, I was later told that Lisp was not truly "functional," as Lisp functions were not "pure."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lisp is dead, long live Lisp!"
+title: "Lisp is Dead, Long Live Lisp!"
 ---
 
 

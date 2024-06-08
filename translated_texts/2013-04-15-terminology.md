@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "several cool professional terminologies"
+title: "Several Cool Professional Terminologies"
 ---
 
 

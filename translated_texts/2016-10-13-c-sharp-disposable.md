@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDisposable interface in C#"
+title: "IDisposable Interface in C#"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "machine-vs-human-3"
+title: "Machine vs Human 3"
 ---
 
 I. Personal Opinion, Unrelated to My Company's Position

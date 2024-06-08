@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to read other people's code"
+title: "How to Read Other People's Code"
 ---
 
 

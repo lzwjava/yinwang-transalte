@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "living-philosophy"
+title: "Living Philosophy"
 ---
 
 I once wrote an article titled 'Programming Wisdom'. Due to my frequent writing of technical articles, some people might think I'm a tech obsessive, only capable of talking about technology and unable to live. However, those who know me closely know that I'm a very capable person in life.

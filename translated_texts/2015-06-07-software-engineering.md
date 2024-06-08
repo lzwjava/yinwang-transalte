@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alluded to as software engineering,"
+title: "Alluded to as Software Engineering"
 ---
 
 
