@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is "user-friendly"?"
+title: "What is user-friendly?"
 ---
 
 

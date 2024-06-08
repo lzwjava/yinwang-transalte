@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "## Wisdom in Learning"
+title: "Wisdom in Learning"
 ---
 
 

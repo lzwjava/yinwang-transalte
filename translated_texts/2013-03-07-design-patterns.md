@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decrypting "Design Patterns""
+title: "Decrypting \"Design Patterns\""
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. How to Respect a Programmer"
+title: "How to Respect a Programmer"
 ---
 
 
