@@ -3,7 +3,7 @@ layout: post
 title: "smart-contract"
 ---
 
- I mentioned in a previous article about artificial intelligence that "automatic programming" is impossible. Today, I want to discuss a related topic: formal verification of Ethereum-style smart contracts using Hoare Logic. Some people claim to implement formal verification of smart contracts based on "deep learning," which is used to automatically ensure the contract's correctness. One method is using "deep learning," which generates Hoare Logic's "preconditions" and "postconditions" after training.
+I mentioned in a previous article about artificial intelligence that "automatic programming" is impossible. Today, I want to discuss a related topic: formal verification of Ethereum-style smart contracts using Hoare Logic. Some people claim to implement formal verification of smart contracts based on "deep learning," which is used to automatically ensure the contract's correctness. One method is using "deep learning," which generates Hoare Logic's "preconditions" and "postconditions" after training.
 
 ### Hoare Logic
 

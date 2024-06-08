@@ -3,7 +3,7 @@ layout: post
 title: "advanced-cs-course"
 ---
 
- I've been pleased with the positive feedback received since the establishment of the computer science fundamental class (group class, one-on-one, reading class). I've seen many students with no prior knowledge learn the essential parts of computer science from scratch. This has greatly inspired me. Based on my own exploration and the various social issues I've encountered, I've realized the value and significance of education once again.
+I've been pleased with the positive feedback received since the establishment of the computer science fundamental class (group class, one-on-one, reading class). I've seen many students with no prior knowledge learn the essential parts of computer science from scratch. This has greatly inspired me. Based on my own exploration and the various social issues I've encountered, I've realized the value and significance of education once again.
 
 Given this background, I've had the idea to set up an advanced computer science class for some time. A 13-year-old student, the "little mouse," tried a lesson and was able to learn some things that were once only accessible to PhD students in a short time. I've also tried impromptu teaching a friend the cello. Although she had never touched a cello before, she was able to play the first part of Bach's Prelude after only an hour. Of course, it was still not smooth, but the principles had been grasped, and continuous practice would lead to further improvement. Master the fundamentals, improve continuously. The master opens the door, practice in seclusion. I feel this is the true meaning of education that I have understood.
 

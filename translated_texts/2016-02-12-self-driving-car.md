@@ -3,7 +3,7 @@ layout: post
 title: "self-driving-car"
 ---
 
- I've been following autonomous driving technology.
+I've been following autonomous driving technology.
 Google's self-driving cars and Tesla's autopilot have been in the news headlines recently. People are passionately discussing autonomous driving technology, filled with wonder, curiosity, and even fear. Google says: "Self-driving cars are very safe. Human beings are terrible drivers." Many people have accepted this viewpoint without hesitation, believing that they will soon be replaced by self-driving cars. So today, I want to share my thoughts on these "self-driving cars."
 
 From my previous article, you should have already seen that Tesla's autopilot is not even close to being a "self-driving" system. Tesla pushed this immature software into users' cars just to compete with Google and build its own reputation. Look, we were the first to release a self-driving car! However, Tesla's thing is at most an "adaptive cruise control." It's still very far from real self-driving technology. Unfortunately, for Tesla's sake, some people are cheering it on.

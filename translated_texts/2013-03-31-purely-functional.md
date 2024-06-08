@@ -3,7 +3,7 @@ layout: post
 title: "purely-functional"
 ---
 
- I was initially introduced to "functional programming languages" as Lisp, because in Lisp, functions could be defined at almost any location in a program and passed as values (known as first-class functions). However, I was later told that Lisp was not truly "functional," as Lisp functions were not "pure."
+I was initially introduced to "functional programming languages" as Lisp, because in Lisp, functions could be defined at almost any location in a program and passed as values (known as first-class functions). However, I was later told that Lisp was not truly "functional," as Lisp functions were not "pure."
 
 A "pure function" is one that behaves like a mathematical function, giving the same output for the same input. Then you realize that almost all functions in most programming languages, including random number functions (random), are not pure. Although the input is always the same (no parameters), the output is different each time. They told me that impure functions are error-prone and cannot be verified for correctness.
 

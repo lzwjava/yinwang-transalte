@@ -3,7 +3,7 @@ layout: post
 title: "java-type-system"
 ---
 
- One Java interview question of a higher level regarding a programmer's understanding of Java type system is as follows:
+One Java interview question of a higher level regarding a programmer's understanding of Java type system is as follows:
 
 public static void
 

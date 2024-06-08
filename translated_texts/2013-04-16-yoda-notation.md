@@ -3,7 +3,7 @@ layout: post
 title: "yoda-notation"
 ---
 
- In the last blog post, I mentioned Yoda notation.
+In the last blog post, I mentioned Yoda notation.
 
 ### Yoda Notation (Yoda style)
 
