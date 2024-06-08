@@ -37,18 +37,18 @@ def read_and_translate(input_file, output_file):
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
         lines = []
         for line in infile:
-            lines.append(line.strip())
+            lines.append(line)
             if len(lines) == 10:
-                text_to_translate = "\n".join(lines)
+                text_to_translate = "".join(lines)
                 translated_chunk = translate_text(text_to_translate)
-                outfile.write(translated_chunk + '\n')
+                outfile.write(translated_chunk)
                 lines = []
 
         # Translate any remaining lines
         if lines:
             text_to_translate = "\n".join(lines)
             translated_chunk = translate_text(text_to_translate)
-            outfile.write(translated_chunk + '\n')
+            outfile.write(translated_chunk)
 
 
 input_file = 'input.txt'
