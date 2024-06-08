@@ -2,22 +2,16 @@ import os
 import boto3
 import json
 
-# Initialize a session using Amazon Bedrock
-session = boto3.Session(region_name='us-east-1')
-
-# Create Bedrock runtime client
-bedrock_runtime = session.client('bedrock-runtime')
-
 
 def translate_text(text):
+    session = boto3.Session(region_name='us-east-1')
+    bedrock_runtime = session.client('bedrock-runtime')
 
-    # Define the parameters for the invoke-model operation
     model_id = 'mistral.mixtral-8x7b-instruct-v0:1'
-
     body = {
-        'prompt': 'Please translate below text to English:' + text,
+        'prompt':  f'Translate the following Chinese text to English: {text}',
         'max_tokens': 4096,
-        'top_k': 10,
+        'top_k': 50,
         'top_p': 0.7,
         'temperature': 0.7
     }
@@ -28,35 +22,25 @@ def translate_text(text):
         contentType='application/json'
     )
 
-    output = json.loads(response['body'])
+    # Read the content from the StreamingBody
+    response_body = response['body'].read().decode('utf-8')
+    output = json.loads(response_body)
 
-    return output
+    # Extract the text from the response
+    extracted_text = output['outputs'][0]['text']
+    return extracted_text
 
 
 def read_and_translate(input_file, output_file):
-    # Open the input file for reading and the output file for writing
-    with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
-        # Read the content of the input file and split it into paragraphs
-        paragraphs = infile.read().split('\n\n')
-
-        # Group paragraphs into chunks of ten
-        chunk_size = 10
-        for i in range(0, len(paragraphs), chunk_size):
-            chunk = paragraphs[i:i + chunk_size]
-
-            # Concatenate paragraphs in the chunk
-            chunk_text = '\n\n'.join(chunk)
-
-            # Check if the chunk is not empty
-            if chunk_text.strip():
-                # Print the chunk for debugging purposes
-                print(chunk_text)
-
-                # Translate the chunk using the translate_text function
-                translated_chunk = translate_text(chunk_text)
-
-                # Write the translated chunk to the output file
-                outfile.write(translated_chunk + '\n\n')
+    with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
+        chunk_size = 1024
+        while True:
+            chunk = infile.read(chunk_size)
+            if not chunk:
+                break
+            print(chunk)
+            translated_chunk = translate_text(chunk)
+            outfile.write(translated_chunk + '\n')
 
 
 input_file = 'input.txt'
