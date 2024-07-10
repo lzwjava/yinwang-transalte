@@ -31,7 +31,6 @@ def translate_text(text):
 
     # Extract the text from the response
     extracted_text = output['generation']
-    print(extracted_text)
     return extracted_text
 
 
@@ -83,8 +82,17 @@ def translate_url_to_text(url, output_file):
         print(f"Skipping {url} due to error.")
 
 
-# Example usage
-url = 'https://www.yinwang.org/blog-cn/2022/02/22/myopia'
-output_file = 'translated_blog_post.html'
+def main():
+    with open('yinwang.json', 'r') as file:
+        urls = json.load(file)
 
-translate_url_to_text(url, output_file)
+    output_dir = 'translated_html'
+    os.makedirs(output_dir, exist_ok=True)
+
+    for url in urls:
+        output_file = os.path.join(output_dir, f"{os.path.basename(url)}.html")
+        translate_url_to_text(url, output_file)
+
+
+if __name__ == "__main__":
+    main()
